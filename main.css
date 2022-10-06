@@ -1,0 +1,214 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+table,td,tr,th{
+    border-collapse: collapse;
+}
+
+table{
+    width: 560px;
+}
+
+tr{
+    line-height: 2;
+}
+
+table.bai1>thead, table.bai1>tfoot>tr>td{
+    background-color: rgb(115, 204, 247);
+}
+
+th.bai1{
+    background-color: rgb(115, 204, 247);
+    color: rgb(4, 14, 189);
+    font-size: x-large;
+    line-height: 1;
+    padding: 5px;
+}
+
+table.bai1 td{
+    background-color: rgb(199, 238, 235);
+    text-align: center;
+    color: rgb(4, 14, 189);
+}
+
+table.bai1 button{
+    color: rgb(4, 14, 189);
+}
+
+table.bai1 td.title{
+    padding-left: 10px;
+    text-align: left;
+    width: 150px;
+}
+
+table{
+    margin: 30vh auto;
+}
+
+input#ketqua{
+    background-color: rgb(255, 251, 205);
+    color: red;
+}
+
+.input{
+    text-align: left;
+}
+
+input{
+    width: 70%;
+}
+
+table.bai7 td{
+    background-color: rgb(219, 149, 183);
+    text-align: center;
+    color: black;
+}
+
+table.bai7 button{
+    color: rgb(71, 48, 59);
+}
+
+table.bai7 td.title{
+    padding-left: 10px;
+    text-align: left;
+    width: 150px;
+}
+
+input#diemtb{
+    background-color: rgb(255, 251, 205);
+    border: 1px solid black;
+}
+
+th.bai8{
+    background-color: rgb(205, 53, 104);
+    color: white;
+    font-size: x-large;
+    line-height: 1;
+    padding: 5px;
+}
+
+table.bai8 td{
+    background-color: rgb(219, 149, 183);
+    text-align: center;
+    color: black;
+}
+
+table.bai8 button{
+    color: rgb(71, 48, 59);
+}
+
+table.bai8 td.title{
+    padding-left: 10px;
+    text-align: left;
+    width: 150px;
+}
+
+input#diemchuan{
+    color: red;
+    font-weight: bold;
+}
+
+table.bai9{
+    width: 400px;
+}
+
+th.bai9{
+    background-color: orange;
+    color: rgb(167, 3, 3);
+    font-size: x-large;
+    line-height: 1;
+    padding: 5px;
+}
+
+table.bai9 td{
+    background-color: antiquewhite;
+    text-align: left;
+    font-weight: bold;
+}
+
+table.bai9 button{
+    color: brown;
+}
+
+table.bai9 td.title{
+    padding-left: 10px;
+    text-align: left;
+    width: 150px;
+    color: brown;
+}
+
+input.input-bai9{
+    width: 15%;
+}
+
+table.bai9 td.button{
+    text-align: center;
+}
+
+table.bai9 input{
+    color: red;
+    font-weight: bold;
+}
+
+th.bai10{
+    background-color: rgb(0, 111, 120);
+    color: white;
+    font-size: x-large;
+    line-height: 1;
+    padding: 5px;
+}
+
+table.bai10 td{
+    background-color: rgb(1, 159, 170);
+    color: black;
+}
+
+table.bai10 button{
+    color: rgb(71, 48, 59);
+}
+
+table.bai10 td.title{
+    padding-left: 10px;
+    text-align: left;
+    width: 150px;
+}
+
+table.bai10 td.button{
+    text-align: center;
+}
+
+th.bai11{
+    background-color: orange;
+    color: rgb(167, 3, 3);
+    font-size: x-large;
+    line-height: 1;
+    padding: 5px;
+}
+
+table.bai11 td{
+    background-color: antiquewhite;
+    text-align: left;
+}
+
+table.bai11 button{
+    color: rgb(71, 48, 59);
+}
+
+table.bai11 td.title{
+    padding-left: 10px;
+    text-align: left;
+    width: 150px;
+    color: brown;
+}
+
+table.bai11 td.button{
+    text-align: center;
+}
+
+input#loaitamgiac{
+    color: red;
+    font-weight: bold;
+    background-color: #fbccd2;
+}
